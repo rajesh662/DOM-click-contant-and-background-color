@@ -1,0 +1,11 @@
+p{
+    font-size: 20px;
+    font-weight: 700;
+}
+body{
+    font-family: 'Itim', cursive;
+font-family: 'Noto Serif Tamil', serif;
+}
+.box{
+    box-shadow: -30px -30px 2px  rgb(206, 216, 222);
+}
